@@ -1,3 +1,5 @@
+```java
+
 public interface MyInterface {
 
     void sayHello();
@@ -39,3 +41,4 @@ public class Method3 {
 
             }
         }
+```
